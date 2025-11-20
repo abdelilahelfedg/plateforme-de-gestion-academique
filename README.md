@@ -1,3 +1,10 @@
-Academic Management Platform
+#Academic Management Platform
 
-Developed an intelligent web platform (React, Node.js, PHP, PostgreSQL, Bootstrap, HTML5, CSS3) with an MVC architecture, RESTful API, and responsive interface, centralizing the management of courses, teachers, and timetables, while integrating an AI microservice for personalized educational resource recommendations.
+## Overview
+The **Academic Management Platform** is an intelligent web application designed to centralize the management of educational resources, including students, teachers, courses, and timetables. The platform integrates an AI microservice to provide personalized educational resource recommendations, enhancing the digital learning experience.
+
+## Features
+- Centralized management of courses, teachers, students, and timetables.    
+- Responsive web interface accessible on desktops, tablets, and mobile devices.  
+- Built with a modern tech stack: PHP, PostgreSQL, Bootstrap, HTML5, CSS3.
+- MVC architecture ensuring scalability and maintainability.
